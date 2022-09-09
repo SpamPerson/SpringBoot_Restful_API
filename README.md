@@ -1,6 +1,7 @@
 # Study_SpringBoot-Restful-API
 
-# port = 8081
+# port 
+  8081
 
 # Request URL 
   1) hello-world -> /hello-world , /hello-world-bean , /hello-world-bean/path-variable/{name} , /hello-world-internationalized (All Get)
